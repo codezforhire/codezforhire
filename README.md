@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @codezforhire, (aka anass mrizig if you're hiring :)
+- 🌱 I’m currently learning c, c++, c#, pyton, java, javascribt, html5 and arduino. 
+- 💞️ I’m looking to collaborate on projects where i'll learn new skills and experiences mainly.
+- 📫 reach me though my gmail for further questions whatsoever at anassmrizig@gmail.com
