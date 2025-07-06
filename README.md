@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @codezforhire, (aka anass mrizig if you're hiring :)
+-  Check me out on https://anass-mrizig-portfolio.vercel.app/ :))
 - 🌱 I'm currently a student working towards becoming a fullstack devoloper. 
 - 💞️ I’m looking to collaborate on projects where i'll learn new skills and experiences mainly.
 - 📫 reach me though my gmail for further questions whatsoever at anassmrizig@gmail.com
